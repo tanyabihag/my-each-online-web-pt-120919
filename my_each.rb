@@ -8,4 +8,4 @@ def my_each(array)
   collection
 end
 
-hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
+
